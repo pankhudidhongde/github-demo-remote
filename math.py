@@ -1,15 +1,15 @@
-#Add implementation
+#Add Function
 def add(x,y):
     pass
   
-#Subtract Implementation  
+#Subtract Function
 def subtract(x,y):
-    return x-y  # on master branch
+    return x-y  
 
-#Multiply implementation
+#Multiply Function
 def multiply(x,y):
     pass
   
-#Divide implementation  
+#Divide Function  
 def divide(x,y):
     pass
